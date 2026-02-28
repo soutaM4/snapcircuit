@@ -29,6 +29,6 @@ No installation required.
 
 ## How to Run
 
-Download from Releases.
+Download from [Releases](https://github.com/soutaM4/snapcircuit/releases/).
 
 Extract and run SnapCircuit.exe.
