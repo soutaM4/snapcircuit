@@ -7,7 +7,7 @@ A simple 2D circuit design tool focusing on ease of use.
 
 ## Portable: No installation required.
 
-# Included Parts
+## Included Parts
 ・NPN Transistor (EBC)
 
 ・Resistor
