@@ -14,14 +14,21 @@ Intuitive design for quick prototyping.
 No installation required.
 
 ## Included Parts
+
 ・NPN Transistor (EBC)
+
 ・Resistor
+
 ・Capacitor
+
 ・Jumper
+
 ・Diode
+
 ・IC
 
 ## How to Run
+
 Download from Releases.
 
 Extract and run SnapCircuit.exe.
