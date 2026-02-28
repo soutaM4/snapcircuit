@@ -1,23 +1,21 @@
 # snapcircuit
 A simple 2D circuit design tool focusing on ease of use.
 
-## Clean View: Frameless window for a focused workspace.
+## Clean View: 
+Frameless window for a focused workspace.
 
-## Simple 2D Interface: Intuitive design for quick prototyping.
+## Simple 2D Interface: 
+Intuitive design for quick prototyping.
 
-## Portable: No installation required.
+## Portable: 
+No installation required.
 
 ## Included Parts
 ・NPN Transistor (EBC)
-
 ・Resistor
-
 ・Capacitor
-
 ・Jumper
-
 ・Diode
-
 ・IC
 
 ## How to Run
